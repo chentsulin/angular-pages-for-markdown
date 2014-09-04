@@ -1,0 +1,21 @@
+{
+  "name": "angular-pages-for-markdown",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ChenTsuLin/angular-pages-for-markdown",
+  "authors": [
+    "Leo Chen-Tsu_Lin <lin19890808@gmail.com>"
+  ],
+  "description": "markdown",
+  "main": "app.js",
+  "keywords": [
+    "markdown"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
